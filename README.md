@@ -1,1 +1,1 @@
-User Auth code using Express and MongoDb
+User Auth code using Express and Mongoose
